@@ -40,7 +40,7 @@ This countdown timer was created to:
 
 ## 📸 Screenshot
 
-![Screenshot](demoimgae.png) <!-- Replace with actual path if needed -->
+![Screenshot](H:\يوسف\yousef\CODING\Summer of Making\conuter down/demoimgae.png) <!-- Replace with actual path if needed -->
 
 ---
 ---
